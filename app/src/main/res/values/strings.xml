@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Заметки</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_create_note">Создать заметку</string>
+    <string name="title_activity_view_note">Просмотр</string>
+    <string name="title_activity_about">О приложении</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_maps2">Map</string>
+    <string name="title_activity_maps787">Map</string>
+    <string name="title_activity_mapseqeqwe">Map</string>
+</resources>

@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:support="http://schemas.android.com/apk/res-auto"
+    tools:context="sobsdes.notesapp.ViewNoteActivity">
+    <item
+        android:id="@+id/menu_item_share"
+        android:title="Share"
+        support:actionProviderClass=
+            "android.support.v7.widget.ShareActionProvider"
+        support:showAsAction="ifRoom"/>
+
+</menu>

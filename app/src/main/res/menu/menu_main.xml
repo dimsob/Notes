@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="notes.sobsdes.mynoteapp.MainActivity">
+
+    <item
+        android:id="@+id/about"
+        android:icon="@drawable/info_icon"
+        android:orderInCategory="100"
+        android:title="О приложении"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/createNote"
+        android:icon="@drawable/add_icon"
+        android:orderInCategory="50"
+        android:title="Создать"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/showMap"
+        android:icon="@mipmap/ic_launcher"
+        android:orderInCategory="150"
+        android:title="Карта"
+        app:showAsAction="ifRoom" />
+
+
+</menu>
